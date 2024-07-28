@@ -28,6 +28,8 @@ source venv/bin/activate <br> # On Windows use `venv\Scripts\activate`
 <h6>bash</h6>
 Copy code<br>
 pip install tensorflow <br>
+<img src="Tensorflow_logo.png" alt="Tensorflow_logo">
+
 # For installing tensorflow library
 
 <hr>
